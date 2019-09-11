@@ -1,0 +1,37 @@
+@media (min-width:978px){
+	.softbox{
+		background-color:#F0F0F0;
+		padding:1.5vw;
+	}
+	.listingimg{
+		max-height:250px;
+		margin-top:10px;
+		margin-bottom:10px;
+		padding-top:20px;
+
+		padding-bottom:20px;
+		background-color:#F0F0F0;
+	}
+	.carousel-caption p{
+		color:#000000;
+	}.carousel-caption h5{
+		color:#000000;
+	}
+	.main-body{	
+		padding-left:2.5vw;
+		margin-left:2.5vw;
+		margin-right:2.5vw;
+		padding-right:2.5vw;
+		padding-top:5vw;
+	}
+	.main-body .row{
+		
+		padding-left:2.5vw;
+		padding-right:2.5vw;
+
+	}
+	.cimg{
+		max-height:50vh;
+	}
+	
+}
