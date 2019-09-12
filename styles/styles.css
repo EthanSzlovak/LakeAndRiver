@@ -3,6 +3,10 @@
 		background-color:#F0F0F0;
 		padding:1.5vw;
 	}
+	
+	.threeimgdiv{
+		max-height:400px;
+	}
 	.listingimg{
 		max-height:250px;
 		margin-top:10px;
@@ -23,13 +27,20 @@
 		margin-right:2.5vw;
 		padding-right:2.5vw;
 		padding-top:5vw;
-	}.charlist{	
+	}
+	
+	.charlist{	
 		padding-left:2.5vw;
 		margin-left:2.5vw;
 		margin-right:2.5vw;
 		padding-right:2.5vw;
 		padding-top:1vw;
+		background-color:#FFFFFF;
 	}
+	.bback{
+		background-color:#FFFFFF;
+}
+	
 	.main-body .row{
 		
 		padding-left:2.5vw;
