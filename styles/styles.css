@@ -21,6 +21,15 @@
 	}.carousel-caption h5{
 		color:#000000;
 	}
+	
+	.main-body-contact{
+		padding-left:2.5vw;
+		margin-left:2.5vw;
+		margin-right:2.5vw;
+		padding-right:2.5vw;
+		padding-top:2vw;
+	}
+	
 	.main-body{	
 		padding-left:2.5vw;
 		margin-left:2.5vw;
