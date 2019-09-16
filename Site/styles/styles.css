@@ -21,6 +21,16 @@
 		max-height:200px;
 		max-width:250px;
 	}
+
+	.listingimg3{
+		max-height:320px;
+		margin-top:10px;
+		margin-bottom:10px;
+		padding-top:20px;
+
+		padding-bottom:20px;
+		background-color:#F0F0F0;
+	}
 	
 	.borderimg{
 		padding:15px;
