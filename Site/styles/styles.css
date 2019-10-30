@@ -1,4 +1,37 @@
-@media (min-width:978px){
+.carousel-item .img-fluid{
+	width:100%;
+}
+.carousel-item{
+	width:100%;
+}
+.carousel-inner{
+	width:100%;
+	height:400px;
+}
+
+.descfont{
+	font-size:14px;
+	font-weight:700;
+	padding-left:5px;
+}
+.backgroundsetter{
+	background-color:#f0f0f0;
+	height:100%;
+}
+.imgbox{
+	padding-left:15px;
+	padding-right:15px;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:5px; 
+	margin-right:5px;
+	background-color:#FFFFFF;
+}
+
+.imgbox .img-fluid{
+	padding:2vw;
+}
+
 	.softbox{
 		background-color:#F0F0F0;
 		padding:1.5vw;
@@ -19,7 +52,8 @@
 	
 	.listingimg2{
 		max-height:200px;
-		max-width:250px;
+		height:200px;
+		width:200px;
 	}
 
 	.listingimg3{
@@ -36,40 +70,9 @@
 		padding:15px;
 		background-color:#F0F0F0;
 	}
-	.imgbox{
-		padding:15px;
-		margin-top:5px;
-		margin-bottom:5px;
-		background-color:#e8e8e8;
-	}
+
 	
-	 /* Style all font awesome icons */
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
-
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-/* Twitter */
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-} 
+ 
 	.carousel-caption p{
 		color:#000000;
 	}.carousel-caption h5{
@@ -102,7 +105,7 @@
 	}
 	.bback{
 		background-color:#FFFFFF;
-}
+	}
 	
 	.main-body .row{
 		
@@ -110,8 +113,33 @@
 		padding-right:2.5vw;
 
 	}
-	.cimg{
-		max-height:50vh;
-	}
 	
-}
+	
+	//Font Awesome Stuff
+		/* Style all font awesome icons */
+		.fa {
+		  padding: 20px;
+		  font-size: 30px;
+		  width: 50px;
+		  text-align: center;
+		  text-decoration: none;
+		}
+
+		/* Add a hover effect if you want */
+		.fa:hover {
+		  opacity: 0.7;
+		}
+
+		/* Set a specific color for each brand */
+
+		/* Facebook */
+		.fa-facebook {
+		  background: #3B5998;
+		  color: white;
+		}
+
+		/* Twitter */
+		.fa-twitter {
+		  background: #55ACEE;
+		  color: white;
+		}
