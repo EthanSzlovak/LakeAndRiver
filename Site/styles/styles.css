@@ -51,9 +51,9 @@
 	}
 	
 	.listingimg2{
-		max-height:200px;
-		height:200px;
-		width:200px;
+		max-height:300px;
+		height:300px;
+		width:300px;
 	}
 
 	.listingimg3{
@@ -71,7 +71,16 @@
 		background-color:#F0F0F0;
 	}
 
-	
+	.more-info-top{
+		background-color: #E0E0E0;
+		padding: 2vw;
+	}
+ 
+	.more-info-bottom{
+		background-color: #E0E0E0;
+		padding: 2vw;
+		margin-top: 2vw;
+	}
  
 	.carousel-caption p{
 		color:#000000;
@@ -95,6 +104,14 @@
 		padding-top:5vw;
 	}
 	
+	.bottom-space{
+		padding-bottom:2vw;
+	}
+	
+	.top-space{
+		padding-top:1vw;
+	}
+	
 	.charlist{	
 		padding-left:2.5vw;
 		margin-left:2.5vw;
@@ -112,6 +129,17 @@
 		padding-left:2.5vw;
 		padding-right:2.5vw;
 
+	}
+	
+	.list-link{
+		list-style-type: none;
+		padding-left: 0vw;
+		margin-left: 0vw;
+	}
+	
+	.more-info-img{
+		float: right;
+		margin-right: 50vw;
 	}
 	
 	
